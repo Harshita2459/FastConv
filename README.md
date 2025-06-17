@@ -2,16 +2,6 @@
 
 A simple C++ project demonstrating 2D convolution from scratch using matrices, aimed at performance-heavy applications like image processing and AI.
 
-## 📦 Project Structure
-
-FastConv/
-├── include/
-│ └── conv2d.hpp # Header for convolution functions
-├── src/
-│ └── conv2d.cpp # Core implementation
-├── tests/
-│ └── test_conv2d.cpp # Main driver for testing
-
 
 ## 🚀 How to Compile and Run 
 
