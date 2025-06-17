@@ -1,6 +1,9 @@
 # FastConv — 2D Convolution in C++
 
-A simple C++ project demonstrating 2D convolution from scratch using matrices, aimed at performance-heavy applications like image processing and AI.
+Designed and implemented a lightweight C++
+library for 2D convolution, optimized using SIMD instructions (SSE/AVX) and multithreading to boost performance
+— inspired by use cases in AI models like Convolutional Neural Networks (CNNs).
+A project demonstrating 2D convolution from scratch using matrices, aimed at performance-heavy applications like image processing and AI.
 
 
 ## 🚀 How to Compile and Run 
