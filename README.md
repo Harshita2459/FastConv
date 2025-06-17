@@ -1,4 +1,4 @@
-# FastConv — 2D Convolution in C++
+# FastConv — 2D Convolution
 
 Designed and implemented a lightweight C++
 library for 2D convolution, optimized using SIMD instructions (SSE/AVX) and multithreading to boost performance
