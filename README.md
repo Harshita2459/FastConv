@@ -24,7 +24,7 @@ g++ -std=c++17 -O2 -I include src/conv2d.cpp tests/test_conv2d.cpp -o test_conv2
 {9 10 11 12},
 {13 14 15 16}
 
-## Kernal
+## Kernel
 {1 0},
 {0 -1}
 
