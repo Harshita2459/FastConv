@@ -1,0 +1,3 @@
+C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/build/CMakeFiles/test_conv2d.dir
+C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/build/CMakeFiles/edit_cache.dir
+C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/build/CMakeFiles/rebuild_cache.dir

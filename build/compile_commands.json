@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/test_conv2d.dir/includes_CXX.rsp  -O2 -mavx -g -std=gnu++1z -o CMakeFiles\\test_conv2d.dir\\tests\\test_conv2d.cpp.obj -c \"C:\\Users\\KIIT\\OneDrive\\Desktop\\New folder\\FastConv\\tests\\test_conv2d.cpp\"",
+  "file": "C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/tests/test_conv2d.cpp",
+  "output": "CMakeFiles/test_conv2d.dir/tests/test_conv2d.cpp.obj"
+},
+{
+  "directory": "C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/test_conv2d.dir/includes_CXX.rsp  -O2 -mavx -g -std=gnu++1z -o CMakeFiles\\test_conv2d.dir\\src\\conv2d.cpp.obj -c \"C:\\Users\\KIIT\\OneDrive\\Desktop\\New folder\\FastConv\\src\\conv2d.cpp\"",
+  "file": "C:/Users/KIIT/OneDrive/Desktop/New folder/FastConv/src/conv2d.cpp",
+  "output": "CMakeFiles/test_conv2d.dir/src/conv2d.cpp.obj"
+}
+]

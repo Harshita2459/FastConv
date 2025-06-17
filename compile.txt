@@ -1,0 +1,6 @@
+to compile:-
+step 1:-
+g++ -std=c++17 -O2 -I ../include ../src/conv2d.cpp ../tests/test_conv2d.cpp -o test_conv2d.exe
+
+step 2:-
+./test_conv2d.exe
